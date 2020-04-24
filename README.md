@@ -14,7 +14,7 @@ Note: This can easily be customized to open the project with another IDE/editor.
 
 1. Download the ``alfred-open-vsc-project.alfredworkflow`` from Releases.
 2. Drag-and-drop it to your Alfred workflows.
-3. Set up the ``PROJECT_FOLDER`` variable. 
+3. Set up the ``PROJECT_FOLDER`` variable. ``PROJECT_FOLDER`` can be set to multi folders split by ``,`` .
 
 ## Usage
 
